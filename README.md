@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @jseop-lim
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### My Github Stats
 
-<!---
-jseop-lim/jseop-lim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api?username=jseop-lim&theme=react&show_icons=true" height="180px">
+</a>
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jseop-lim&theme=react&layout=compact" height="180px">
+</a>
