@@ -1,3 +1,9 @@
+## 👋 Hello, I am Jeongseop Lim (임정섭)
+
+Find more about me on my website:
+
+:link: [about.jseoplim.com](https://about.jseoplim.com)
+
 ### My Github Stats
 
 <a href="#">
